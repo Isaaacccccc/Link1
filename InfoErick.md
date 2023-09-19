@@ -35,3 +35,5 @@ Teoría de la computación
 ### Ventaja en PROGRAMACIÓN	E	INGENIERÍA	DE	SOFTWARE en parte de Algorítmica Fmat cuenta con una asignatura específica para:
 
 Algoritmia 
+
+Investigado por: Erick Vega
