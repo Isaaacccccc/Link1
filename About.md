@@ -1,4 +1,6 @@
-| Encabezado 1 | Encabezado 2 |
+| Foto         | Nombre|
 |--------------|--------------|
-| Celda 1,1    | Celda 1,2    |
-| Celda 2,1    | Celda 2,2    |
+|  ![Alt Text](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav#overlay_profile-image-modal)  | Aldrin Enrique Novelo Gongora   |
+
+
+                
