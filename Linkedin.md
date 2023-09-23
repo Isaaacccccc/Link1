@@ -1,3 +1,0 @@
-| Encabezado 1 | Encabezado 2 |Encabezado 3 |Encabezado 4|
-|--------------|--------------|--------------|------------|
-| ![Alt Text](https://media.licdn.com/dms/image/D4D03AQGRecmCIQcWHw/profile-displayphoto-shrink_400_400/0/1692977529907?e=1700697600&v=beta&t=UHlArfHBiRirmyTxKjuNvHApj04Qwkwbz3nx3IdTnBw)   |Erick Ricardo Vega Nolasco |Actualmente estudiante de ingeniería de software en la Facultad de Matemáticas, en busca de conocimiento y experiencia.|https://www.linkedin.com/in/erick-vega-6b622428a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwvcrk%2BO5SCmHiMizoRyxhw%3D%3D |
