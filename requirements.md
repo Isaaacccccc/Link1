@@ -14,6 +14,7 @@ Before starting, the project will be briefly introduced, highlighting the main i
 |--|--|
 | Smart devices, this means that the application should be designed so that the user must install it on their device and can be updated through an application store. | The application should integrate some videos that work as tutorials to use the application. |
 |  |  |
+| The user learning curve should be fast. | The application should be able to display images of the activities where assistance is needed. |
 |  |  |
 |  |  |
 |The user-aplication interaction will be tailored to the user's needs base on the mode chosen in the register.   |The application will have a two-mode login system: one for deaf individuals who cannot read, and another for deaf individuals who can do it.  |

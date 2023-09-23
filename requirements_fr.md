@@ -15,6 +15,7 @@ Before starting, the project will be briefly introduced, highlighting the main i
 |--|--|
 | Management and maintenance of respect on the page by means of a bot that can detect aggressive ideas or a moderator on the page. | Users who function as mentors or who can implement their critiques or thoughts on careers.|
 | 24/7 availability. Users will be able to access the system whenever they want, so they will be able to view all reviews and comment at any time. |Account creation. Students must create an account to access the service by providing academic data. |
+| Available and reliable users who can provide information about majors. |Reviews can be read in an organized manner by major. |
 |  | |
 |  | |
 |  | |
