@@ -19,6 +19,6 @@ Before starting, the project will be briefly introduced, highlighting the main i
 |  | |
 |  | |
 |  | |
-|  | |
+|The user should easily understand the functioning of the page.  |Users will be able to rate and comment on the reviews. |
 
 This is a short list of those features we are interested in and have planned for the moment, more may be added as the file is generated and the project documentation is developed. The present ones, for the moment, reflect an early version of the interface and sketches we have idealized for the application.
