@@ -17,6 +17,6 @@ Before starting, the project will be briefly introduced, highlighting the main i
 |  | leooo |
 |  | karola |
 |  | aldrn |
-|  | jesu |
+| Personal safety. The deaf person will be able to contact real emergency services, guaranteeing fast and efficient care for the user. | Emergency recognition. The application will have a system that can understand the emergency that is happening, either by icons in the case of not being able to read or with implemented text otherwise. Also, a multimodal contact system, where you can choose whether you want to make a video call with a LSM interpreter, pre-configured text-to-speech options or a text chat.  |
 
 This is a short list of those features we are interested in and have planned for the moment, more may be added as the file is generated and the project documentation is developed. The present ones, for the moment, reflect an early version of the interface and sketches we have idealized for the application.
